@@ -87,7 +87,7 @@ p {
   float: left;
   width: 33.33%;
   background-color: #F44336;
-  padding: 2rem;
+  line-height: 105px;
 }
 
 #left a:hover {
@@ -98,14 +98,14 @@ p {
   float: left;
   width: 33.33%;
   background-color: #E53935;
-  padding: 2rem;
+  line-height: 105px;
 }
 
 #right {
   float: left;
   width: 33.33%;
   background-color: #D32F2F;
-  padding: 2rem;
+  line-height: 105px;
 }
 
 #summary {
